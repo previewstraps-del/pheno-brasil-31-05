@@ -168,7 +168,7 @@ export function renderNav(activeLink = '') {
     },
      {
       label: 'Revista',
-      href: '#'
+      href: 'Revista.html'
     },
 
 {
