@@ -165,7 +165,18 @@ export function renderNav(activeLink = '') {
     {
       label: 'Loja',
       href: 'loja.html'
+    },
+     {
+      label: 'Revista',
+      href: '#'
+    },
+
+{
+      label: 'cursos e mentorias',
+      href: 'cursos.html'
     }
+
+
 
   ];
 
